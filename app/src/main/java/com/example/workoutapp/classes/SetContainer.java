@@ -38,6 +38,10 @@ public class SetContainer {
         this.allSets = allSets;
     }
 
+    public void add(LiftSet ls) {
+        allSets.push(ls);
+    }
+
     /**
      * @return Current set
      */

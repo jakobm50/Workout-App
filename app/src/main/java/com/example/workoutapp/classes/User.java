@@ -1,3 +1,8 @@
+/**
+ * Creates new User
+ *
+ * @author gtrentz
+ */
 public class User {
     private String username;
     private String name;
