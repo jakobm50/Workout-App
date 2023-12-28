@@ -1,3 +1,5 @@
+package com.example.workoutapp.classes;
+
 /**
  * Creates new User
  *
