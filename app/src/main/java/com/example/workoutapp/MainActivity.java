@@ -11,7 +11,7 @@ import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
 import com.example.workoutapp.databinding.ActivityMainBinding;
-
+//Commit test
 public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding;
